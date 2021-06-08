@@ -25,7 +25,9 @@
 
 [homework/homework1.md](homework/homework1.md)
 
+## 2.homework2
 
+[2021年7日打卡-文本相似度计算.md](homework/2021年7日打卡-文本相似度计算.md)
 
 
 
